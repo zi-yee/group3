@@ -39,4 +39,5 @@ public class Student {
      return;
 }
     void myTest();
+    void myTest2();
 }
